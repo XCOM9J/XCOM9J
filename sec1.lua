@@ -1,4 +1,4 @@
-local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
+local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/XCOM9J/XCOM9J/main/LakosL%C4%B0B.lua"))()
 
 
 local GUI = Mercury:Create{
