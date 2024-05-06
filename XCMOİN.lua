@@ -5,7 +5,7 @@ local GUI = Mercury:Create{
     Name = "Suri Hub",
     Size = UDim2.fromOffset(600, 400),
     Theme = Mercury.Themes.Dark,
-    Link = "LakosHub"
+    Link = "anal"
 }
 
 
